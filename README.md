@@ -42,16 +42,19 @@
 
 <br/>
 
-<h3> ⚙️  GitHub Analytics </h3>
+<h3> ⚙️  GitHub Analytics </h3> 
   
 <a href="https://github.com/paulowender">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=paulowender&theme=react&show_icons=true" style"max-width: 100%;" />
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulowender&theme=react&layout=compact" style"max-width: 100%;" />
-  <img height="300em" src="https://metrics.lecoq.io/paulowender" alt="Github Metrics" style"max-width: 100%;>
+  <img height="300em" src="https://metrics.lecoq.io/paulowender" alt="Github Metrics" style"max-width: 100%;" />
 </a>
 
-<br/>
-                                                                                       https://metrics.lecoq.io/insights/paulowender
+<a href="https://metrics.lecoq.io/insights/paulowender" target="_blank"> Mais Métricas </a>
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulowender)](https://git.io/streak-stats) -->
+
+<!--                                                                                        https://metrics.lecoq.io/insights/paulowender -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=paulowender&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
