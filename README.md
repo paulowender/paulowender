@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 &nbsp; Em busca de uma nova oportunidade.
 - 🧭 &nbsp; Explorador de novas tecnologias.
-- 🎓 &nbsp; Sou formado baicharel em Sistemas da Informação, com mais de 4 anos de experiência em desenvolvimento com PHP e Laravel para o backend e Flutter para o front-end, mobile e desktop.
+- 🎓 &nbsp; Sou Bacharel em Sistemas da Informação, com mais de 4 anos de experiência em desenvolvimento com PHP e Laravel para o backend e Flutter para o front-end, mobile e desktop.
 - ✍️ &nbsp; Estou atualmente em busca de aperfeiçoar meu inglês e de aumentar meu conhecimento sobre o framework Laravel.
 
 <h3> 🛠 &nbsp;Habilidades Técnicas </h3>
