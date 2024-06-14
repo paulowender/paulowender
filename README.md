@@ -44,15 +44,15 @@
 
 <br/>
 
-<h3> ⚙️  GitHub Analytics </h3> 
+<!-- <h3> ⚙️  GitHub Analytics </h3> -->
   
-<a href="https://github.com/paulowender">
+<!-- <a href="https://github.com/paulowender">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=paulowender&theme=react&show_icons=true" style"max-width: 100%;" />
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulowender&theme=react&layout=compact" style"max-width: 100%;" />
   <img height="300em" src="https://metrics.lecoq.io/paulowender" alt="Github Metrics" style"max-width: 100%;" />
-</a>
+</a>-->
 
-<a href="https://metrics.lecoq.io/insights/paulowender" target="_blank"> Mais Métricas </a>
+<!-- <a href="https://metrics.lecoq.io/insights/paulowender" target="_blank"> Mais Métricas </a> -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulowender)](https://git.io/streak-stats) -->
 
@@ -63,7 +63,7 @@
 <br/>
 
 ### Contatos e Conexões
-<p align="center">
+<p align="left">
   <a href="mailto:opaulowender@gmail.com" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/gmail.svg" width="30px" alt="E-Mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/paulowender/" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 <!--   <a href="https://instagram.com/cogumm" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp; -->
