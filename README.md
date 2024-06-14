@@ -13,6 +13,8 @@
 <img width="25%" align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 - 🌐 &nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -79,8 +81,8 @@
 
 <p>
     <em>
-      Desenvolvedor em busca de uma nova oportunidade.
-<!--         Software Engineer at <a href="http://cogumm.net">my home</a><br /> -->
+<!--       Desenvolvedor em busca de uma nova oportunidade. -->
+        Full Stack Developer at <a href="https://qiplus.com.br">QiPlus</a><br />
     </em>
 </p>
                                                         
